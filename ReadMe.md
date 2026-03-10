@@ -76,20 +76,17 @@ I enjoy turning **ideas into real working systems** — from coding bootcamps to
 
 ---
 
-# GitHub Analytics
+
+<!-- GitHub Stats -->
+<h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=siddharthg-7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthg-7&layout=compact&theme=tokyonight"/>
-
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=siddharthg-7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=siddharthg-7&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddharthg-7&theme=tokyo-night"/>
-
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=siddharthg-7&theme=tokyo-night" />
 </p>
 
 ---
