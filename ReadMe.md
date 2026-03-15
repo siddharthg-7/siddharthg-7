@@ -30,7 +30,7 @@ I enjoy turning **ideas into real working systems** — from coding bootcamps to
 
 <p align="center">
 
-<a href="https://linkedin.com/in/gilakathi-siddhartha-goud">
+<a href="www.linkedin.com/in/gilakathi-siddhartha-goud-a51ba3325">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
