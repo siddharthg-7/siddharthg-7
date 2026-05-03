@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech IT Student | Full-Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
-Building intelligent systems, full-stack platforms, and AI tools that solve real-world problems.
+Building intelligent systems, Full-stack platforms, and AI tools that solve real-world problems.
 </p>
 
 ---
