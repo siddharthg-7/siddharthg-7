@@ -10,7 +10,7 @@ Building intelligent systems, Full-stack platforms, and AI tools that solve real
 #  About Me
 
  **Currently Working On**  
-Full-stack platforms, AI-driven tools, and data-focused systems such as **AI Fake Message Detection** and **Speech-to-Sign Language Conversion**.
+Full-stack platforms, AI-driven tools, and data-focused systems such as **AI Fake Message Detection** and **Bus Tracker Application with Call Agents in it**.
 
  **Looking to Collaborate On**  
 Open-source **AI/ML projects**, **developer tools**, and **social impact technology**.
