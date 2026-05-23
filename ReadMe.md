@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=const+name+%3D+%22Gilakathi+Siddhartha%22">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=const+name+%3D+%22Gilakathi+Siddhartha+Goud%22">
   </a>
 </h1>
 
@@ -33,7 +33,7 @@ Building intelligent systems, Full-stack platforms, and AI tools that solve real
         <li> <b>Currently Working On:</b>
           <ul>
             <li> <i>Trust-Link A verification Platform </i> — Intelligent classification system</li>
-            <li> <i>Bus Tracker Application </i> — Scalable tracking with AI Call Agents</li>
+            <li> <i>Medical Prescription Platform </i> — Scalable tracking with AI Call Agents</li>
           </ul>
         </li>
         <li> Reach me at: <b><a href="mailto:siddharthgoudgilakathi@gmail.com">siddharthgoudgilakathi@gmail.com</a></b></li>
