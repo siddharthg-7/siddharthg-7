@@ -33,7 +33,7 @@ Building intelligent systems, Full-stack platforms, and AI tools that solve real
         <li> <b>Currently Working On:</b>
           <ul>
             <li> <i>Trust-Link A verification Platform </i> — Intelligent classification system</li>
-            <li> <i>Bus Tracker Application </i> — Scalable tracking with AI Call Agents</li>
+            <li> <i>Bus Tracker Application </i> — Scalable tracking with Attendance System</li>
           </ul>
         </li>
         <li> Reach me at: <b><a href="mailto:siddharthgoudgilakathi@gmail.com">siddharthgoudgilakathi@gmail.com</a></b></li>
