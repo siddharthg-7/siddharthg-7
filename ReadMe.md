@@ -97,13 +97,13 @@ Building intelligent systems, Full-stack platforms, and AI tools that solve real
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 May 2026 - To: 03 June 2026
+From: 29 May 2026 - To: 05 June 2026
 
-JavaScript   32 mins               ████████████████████░░░░░   80.43 %
-Text         4 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
-Markdown     2 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
-CSS          0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+JavaScript   32 mins               ██████████████████░░░░░░░   71.50 %
+JSON         9 mins                █████▒░░░░░░░░░░░░░░░░░░░   21.19 %
+Markdown     2 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+CSS          0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
