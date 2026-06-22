@@ -24,7 +24,7 @@ Building intelligent systems, Full-stack platforms, and AI tools that solve real
 <table>
   <tr>
     <td width="55%" valign="top">
-      <h3>🚀 About Me:</h3>
+      <h3>  About Me:</h3>
       <ul>
         <li><b>Building production-ready, scalable Full-Stack & GenAI systems</b></li>
         <li> <b>Engineering LLM-powered applications, AI agents & automation workflows</b></li>
@@ -125,7 +125,7 @@ No activity tracked
 
 ---
 
-# 💬 Developer Quote
+# Developer Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
